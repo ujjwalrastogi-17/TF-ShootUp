@@ -9,4 +9,4 @@
 *.tfvars
 
 # also delete the private key
-/tfkey
+tfkey
