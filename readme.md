@@ -1,6 +1,6 @@
-# Terraform Pipeline Setup Guide
+# Terraform Pipeline Setup Guide (On a Linux machine)
 
-This guide provides step-by-step instructions to set up and run a Terraform pipeline on any Linux machine. You'll need to have an active AWS account to proceed.
+This guide provides step-by-step instructions to set up and run a Terraform pipeline which creates a Keypair,Security Group, VPC, Routing Tables, Internet Gateway, Subnets and EC2 instance in that vpc with the created security group and keypair. EC2 Instance used here is a t2.micro Ubuntu. After Configuring you will be able to provision this infrastructure in one go by just using **terraform apply** You'll need to have an active AWS account and a Linux machine to proceed.
 
 ## Prerequisites
 - An AWS account
