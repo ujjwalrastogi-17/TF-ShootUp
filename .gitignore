@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# also delete the private key
+/tfkey
