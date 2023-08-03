@@ -1,5 +1,3 @@
-Certainly! Here's the revised README:
-
 # Terraform Pipeline Setup Guide
 
 This guide provides step-by-step instructions to set up and run a Terraform pipeline on any Linux machine. You'll need to have an active AWS account to proceed.
